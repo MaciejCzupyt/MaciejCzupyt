@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maciej</h1>
 <h3 align="center">IT enthusiast from Warsaw</h3>
 
-- 🌱 I’m currently learning **React, Typescript, Python and more!**
+- 🌱 I’m currently learning **Django, Python and more!**
 
 - 📫 How to reach me **maciej.czupyt@gmail.com**
 
